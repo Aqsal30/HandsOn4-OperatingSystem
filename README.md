@@ -8,4 +8,4 @@ Program ini bernama "Test Your Brain". program ini adalah sebuah permainan yang 
 Cara Menjalankan Kontainer :
 Video cara membuat dan menjalankan kontainer dapat dilihat di link dibawah :
 
-[![](https://img.youtube.com/vi/vGZWYEFOldM/0.jpg)](https://www.youtube.com/watch?v=vGZWYEFOldM)
+[![HandsOn 4 - Operating System - Aqsal Yazid Setiawan](https://img.youtube.com/vi/vGZWYEFOldM/0.jpg)](https://www.youtube.com/watch?v=vGZWYEFOldM)
